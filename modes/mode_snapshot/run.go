@@ -5,9 +5,9 @@ import (
 
 	"github.com/TheManticoreProject/Manticore/logger"
 
-	"github.com/TheManticoreProject/manticore-ldapmonitor/config"
-	"github.com/TheManticoreProject/manticore-ldapmonitor/directory"
-	"github.com/TheManticoreProject/manticore-ldapmonitor/utils"
+	"github.com/TheManticoreProject/ldapmonitor/config"
+	"github.com/TheManticoreProject/ldapmonitor/directory"
+	"github.com/TheManticoreProject/ldapmonitor/utils"
 )
 
 // Run reads every object in scope once and writes them to a file.

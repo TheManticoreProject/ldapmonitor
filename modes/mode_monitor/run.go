@@ -19,9 +19,9 @@ import (
 	"github.com/TheManticoreProject/Manticore/logger"
 	"github.com/TheManticoreProject/Manticore/network/ldap"
 
-	"github.com/TheManticoreProject/manticore-ldapmonitor/config"
-	"github.com/TheManticoreProject/manticore-ldapmonitor/directory"
-	"github.com/TheManticoreProject/manticore-ldapmonitor/utils"
+	"github.com/TheManticoreProject/ldapmonitor/config"
+	"github.com/TheManticoreProject/ldapmonitor/directory"
+	"github.com/TheManticoreProject/ldapmonitor/utils"
 )
 
 // randomDelayLowerBoundMs and randomDelayUpperBoundMs bound, in milliseconds, the
