@@ -5,7 +5,7 @@ package config
 import (
 	"github.com/TheManticoreProject/Manticore/windows/credentials"
 
-	"github.com/TheManticoreProject/manticore-ldapmonitor/directory"
+	"github.com/TheManticoreProject/ldapmonitor/directory"
 )
 
 // Config is the whole configuration of a run. A mode reads the parts that apply to

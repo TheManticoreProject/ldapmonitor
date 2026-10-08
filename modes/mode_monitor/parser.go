@@ -6,7 +6,7 @@ import (
 	"github.com/TheManticoreProject/Manticore/logger"
 	"github.com/TheManticoreProject/goopts/parser"
 
-	"github.com/TheManticoreProject/manticore-ldapmonitor/cli"
+	"github.com/TheManticoreProject/ldapmonitor/cli"
 )
 
 // SetupSubParser registers the monitor mode and the argument groups it carries.

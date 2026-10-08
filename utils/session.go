@@ -11,7 +11,7 @@ import (
 	"github.com/TheManticoreProject/Manticore/network/ldap"
 	"github.com/TheManticoreProject/Manticore/windows/credentials"
 
-	"github.com/TheManticoreProject/manticore-ldapmonitor/config"
+	"github.com/TheManticoreProject/ldapmonitor/config"
 )
 
 // NewSession creates the LDAP session and binds it to the domain controller.

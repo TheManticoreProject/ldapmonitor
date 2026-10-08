@@ -1,4 +1,4 @@
-module github.com/TheManticoreProject/manticore-ldapmonitor
+module github.com/TheManticoreProject/ldapmonitor
 
 go 1.24.0
 

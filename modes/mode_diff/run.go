@@ -5,8 +5,8 @@ import (
 
 	"github.com/TheManticoreProject/Manticore/logger"
 
-	"github.com/TheManticoreProject/manticore-ldapmonitor/config"
-	"github.com/TheManticoreProject/manticore-ldapmonitor/directory"
+	"github.com/TheManticoreProject/ldapmonitor/config"
+	"github.com/TheManticoreProject/ldapmonitor/directory"
 )
 
 // Run compares two readings taken by snapshot mode.
